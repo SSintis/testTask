@@ -1,0 +1,3 @@
+/home/emo_profisional/programingCplusPlus/tt/build/CMakeFiles/main.dir
+/home/emo_profisional/programingCplusPlus/tt/build/CMakeFiles/edit_cache.dir
+/home/emo_profisional/programingCplusPlus/tt/build/CMakeFiles/rebuild_cache.dir
